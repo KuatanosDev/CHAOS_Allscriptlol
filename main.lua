@@ -2,3 +2,4 @@ loadstring(game:HttpGet(('https://raw.githubusercontent.com/Dan41/Scripts/main/%
 loadstring(game:HttpGet("https://raw.githubusercontent.com/H20CalibreYT/SystemBroken/main/script"))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/KuatanosDev/CHAOS-Gamepass-code/refs/heads/main/code"))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/KuatanosDev/Rtodropitemrblx/refs/heads/main/code.lua"))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()
